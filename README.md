@@ -1,5 +1,5 @@
 # Name Gender Classifier
-**DATA 620 – Web Analytics & Network Analysis | CUNY School of Professional Studies**
+
 
 ## Overview
 This project builds a name gender classifier using the NLTK Names Corpus and a Naive Bayes 
