@@ -1,4 +1,4 @@
-# Name Gender Classifier | PROJECT 3
+## Name Gender Classifier | PROJECT 3
 
 
 ## Overview
